@@ -24,6 +24,7 @@
 📫 Comment me contacter :
 
   Envoyez-moi un message dans une bouteille à la mer (je plaisante, utilisez plutôt mon e-mail : f[...].l[...]@mail.com).
+  
   Ou envoyez-moi un pigeon voyageur (si vous en avez un sous la main).
 
 ⚡ Fun fact :
