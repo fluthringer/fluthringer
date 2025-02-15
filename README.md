@@ -1,4 +1,4 @@
-## < Hello 👋 Terre ! Je suis Fabien />
+## < Hello 👋 World ! Je suis Fabien />
 ### Développeur fullstack passionné de code et de caféine ☕.
 
 🔧 Mes super-pouvoirs :
